@@ -1,11 +1,17 @@
-## About Me
+# Hi, I'm Alya 👋
 
-My name is Alya Mahmood.
+🎓 I'm studying Computer Science and currently learning Java and GitHub.
 
-I am currently studying Computer Science and learning Java and GitHub.
-
-Hobbies:
-- Gaming
+💻 Interests
 - Programming
+- Game development
+
+🌱 Currently Learning
+- Java
+- Git
+- Software development basics
+
+📫 Contact
+Email: Contact: AlyaMahmood@users.noreply.github.com
 
 ![Profile Picture](ff3011775f90ca0681e1fae7d408381d.jpg)
